@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/X08nPynQgmZrgLhP5C3oRvbJOt95GaEmL8hvy+05I5PjXp0qUIYQy8GImApwphMqk5oG8d83+ray+T4nAJNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\polin\\source\\repos\\ds.test.impl\\TestLib\\ds.test.impl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\polin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\polin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\polin\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

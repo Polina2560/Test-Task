@@ -1,0 +1,9 @@
+C:\Users\polin\source\repos\ds.test.impl\TestLib\bin\Debug\netstandard2.0\ds.test.impl.deps.json
+C:\Users\polin\source\repos\ds.test.impl\TestLib\bin\Debug\netstandard2.0\ds.test.impl.dll
+C:\Users\polin\source\repos\ds.test.impl\TestLib\obj\Debug\netstandard2.0\ds.test.impl.AssemblyInfoInputs.cache
+C:\Users\polin\source\repos\ds.test.impl\TestLib\obj\Debug\netstandard2.0\ds.test.impl.AssemblyInfo.cs
+C:\Users\polin\source\repos\ds.test.impl\TestLib\bin\Debug\netstandard2.0\ds.test.impl.pdb
+C:\Users\polin\source\repos\ds.test.impl\TestLib\obj\Debug\netstandard2.0\ds.test.impl.csprojAssemblyReference.cache
+C:\Users\polin\source\repos\ds.test.impl\TestLib\obj\Debug\netstandard2.0\ds.test.impl.csproj.CoreCompileInputs.cache
+C:\Users\polin\source\repos\ds.test.impl\TestLib\obj\Debug\netstandard2.0\ds.test.impl.dll
+C:\Users\polin\source\repos\ds.test.impl\TestLib\obj\Debug\netstandard2.0\ds.test.impl.pdb
